@@ -1,2 +1,2 @@
-# pixory
-online photobooth
+# PIXORY
+online photobooth coming soon 🎞️
